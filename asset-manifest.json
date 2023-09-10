@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AR-VR/static/css/main.43f5ed26.css",
+    "main.js": "/AR-VR/static/js/main.0fef46d9.js",
+    "index.html": "/AR-VR/index.html",
+    "main.43f5ed26.css.map": "/AR-VR/static/css/main.43f5ed26.css.map",
+    "main.0fef46d9.js.map": "/AR-VR/static/js/main.0fef46d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43f5ed26.css",
+    "static/js/main.0fef46d9.js"
+  ]
+}

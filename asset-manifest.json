@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/AR-VR/static/css/main.d87cb896.css",
-    "main.js": "/AR-VR/static/js/main.21e575b5.js",
+    "main.js": "/AR-VR/static/js/main.ee0e773f.js",
     "index.html": "/AR-VR/index.html",
     "main.d87cb896.css.map": "/AR-VR/static/css/main.d87cb896.css.map",
-    "main.21e575b5.js.map": "/AR-VR/static/js/main.21e575b5.js.map"
+    "main.ee0e773f.js.map": "/AR-VR/static/js/main.ee0e773f.js.map"
   },
   "entrypoints": [
     "static/css/main.d87cb896.css",
-    "static/js/main.21e575b5.js"
+    "static/js/main.ee0e773f.js"
   ]
 }
